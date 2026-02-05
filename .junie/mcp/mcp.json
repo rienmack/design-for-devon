@@ -1,0 +1,22 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/ryan/Library/Application",
+            "args": [
+                "Support/Herd/bin/php84",
+                "/Users/ryan/code/design-for-devon/artisan",
+                "boost:mcp"
+            ]
+        },
+        "herd": {
+            "command": "/Users/ryan/Library/Application",
+            "args": [
+                "Support/Herd/bin/php84",
+                "/Applications/Herd.app/Contents/Resources/herd-mcp.phar"
+            ],
+            "env": {
+                "SITE_PATH": "/Users/ryan/code/design-for-devon"
+            }
+        }
+    }
+}
