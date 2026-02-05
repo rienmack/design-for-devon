@@ -27,6 +27,8 @@
         "typescript-eslint": "^8.23.0"
     },
     "dependencies": {
+        "@fontsource/big-shoulders-display": "^5.2.5",
+        "@fontsource/jetbrains-mono": "^5.2.8",
         "@inertiajs/react": "^2.3.7",
         "@tailwindcss/vite": "^4.1.11",
         "@types/react": "^19.2.0",
